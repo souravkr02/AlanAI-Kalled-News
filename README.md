@@ -3,3 +3,5 @@
 Used : AlanAI, React, AWS Amplify, GitHub, Material-UI, words-to numbers, classnames 
 
 Live https://master.d2upp7tio8fgxr.amplifyapp.com/
+
+Try : "What can I do here?" or "Give me the latest news" 
