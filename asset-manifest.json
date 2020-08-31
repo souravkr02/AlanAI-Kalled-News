@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlanAI-Kalled-News/static/css/main.3595e86f.chunk.css",
+    "main.js": "/AlanAI-Kalled-News/static/js/main.527a7bdf.chunk.js",
+    "main.js.map": "/AlanAI-Kalled-News/static/js/main.527a7bdf.chunk.js.map",
+    "runtime-main.js": "/AlanAI-Kalled-News/static/js/runtime-main.1d9ab7a6.js",
+    "runtime-main.js.map": "/AlanAI-Kalled-News/static/js/runtime-main.1d9ab7a6.js.map",
+    "static/js/2.9b5e81d5.chunk.js": "/AlanAI-Kalled-News/static/js/2.9b5e81d5.chunk.js",
+    "static/js/2.9b5e81d5.chunk.js.map": "/AlanAI-Kalled-News/static/js/2.9b5e81d5.chunk.js.map",
+    "index.html": "/AlanAI-Kalled-News/index.html",
+    "precache-manifest.974cd621f5fcf4d9ac47bf00cb1a2ac9.js": "/AlanAI-Kalled-News/precache-manifest.974cd621f5fcf4d9ac47bf00cb1a2ac9.js",
+    "service-worker.js": "/AlanAI-Kalled-News/service-worker.js",
+    "static/css/main.3595e86f.chunk.css.map": "/AlanAI-Kalled-News/static/css/main.3595e86f.chunk.css.map",
+    "static/js/2.9b5e81d5.chunk.js.LICENSE.txt": "/AlanAI-Kalled-News/static/js/2.9b5e81d5.chunk.js.LICENSE.txt",
+    "static/media/logo.PNG": "/AlanAI-Kalled-News/static/media/logo.389c652f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d9ab7a6.js",
+    "static/js/2.9b5e81d5.chunk.js",
+    "static/css/main.3595e86f.chunk.css",
+    "static/js/main.527a7bdf.chunk.js"
+  ]
+}
